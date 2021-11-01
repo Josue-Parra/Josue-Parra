@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Josue-Parra
 - 👀 I’m interested in Full-stack
-- 🌱 I’m currently learning on behalf of others
+- 🌱 I’m currently learning on behalf of others. 
+- I have specie in Scrums and teamwork thanks to the project that I spent for 2 years managing server infrastructures.
 - 📫 How to reach me via linkedin /parrasilvajosue/
 
 <!---
